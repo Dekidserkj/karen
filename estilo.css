@@ -1,0 +1,23 @@
+body{
+    background: rgb(247, 6, 6);
+    color: rgb(6, 79, 81);
+    text-align: center;
+}
+
+#principal{
+    background-color: rgba(5, 113, 230, 0.298);
+    color: rgb(245, 245, 238);
+    padding: 20px;
+}
+#segunda{
+    background-color: rgba(129, 77, 235, 0.645);
+    color: rgb(222, 182, 228);
+    text-align: right;
+    padding: 50px 100px;
+}
+#tercera{
+    background-color: rgba(30, 34, 224, 0.796);
+    color: srgba(220, 81, 123, 0.578);
+    text-align: left;
+    padding:25px 50px 200px 100px ;
+}
